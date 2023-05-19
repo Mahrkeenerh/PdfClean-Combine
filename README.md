@@ -7,5 +7,5 @@ Cleaning a pdf in this case means removing unnecessary pages - if one page is sp
 Copy the `.py` script to the directory containing the pdf files you want to clean and combine. Then run the it inside. It will first locate all pdf files and list them.
 
 ```bash
-$ python clean&combine_pdf.py
+$ python cc_pdf.py
 ```
